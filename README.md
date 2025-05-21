@@ -44,7 +44,7 @@ streamlit run UI/Front.py
 
 This project is documented in a technical paper that explains the motivation, architecture, and evaluation of AutoML Lite, including its use of **Bayesian optimization**, task detection, and lightweight design principles.
 
-👉 [Read the paper here](AUTOML (1).pdf)
+👉 [Read the paper here](./AutoML_Lite_Paper.pdf)
 
 ---
 
