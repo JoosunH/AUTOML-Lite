@@ -8,13 +8,13 @@ This project enables users to upload CSV files and automatically preprocess data
 
 ## 📌 Features
 
-- ✅ Task Type Detection (Classification vs Regression)
-- 🧹 Data Preprocessing with ColumnTransformer
-- 🔍 Hyperparameter Tuning using **Bayesian Optimization** (Optuna)
-- 📈 Evaluation Metrics (Accuracy, Precision, Recall, ROC-AUC, MAE, RMSE, R^2)
-- 📊 Visualizations: Confusion Matrix, ROC Curve, Residual Plots, Leaderboard
-- 💾 One-click model pipeline export (.joblib)
-- 🧪 Optional experiment tracking via **MLflow**
+- Task Type Detection (Classification vs Regression)
+- Data Preprocessing with ColumnTransformer
+- Hyperparameter Tuning using **Bayesian Optimization** (Optuna)
+- Evaluation Metrics (Accuracy, Precision, Recall, ROC-AUC, MAE, RMSE, R^2)
+- Visualizations: Confusion Matrix, ROC Curve, Residual Plots, Leaderboard
+- One-click model pipeline export (.joblib)
+- Optional experiment tracking via **MLflow**
 
 ---
 
