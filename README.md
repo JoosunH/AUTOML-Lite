@@ -20,7 +20,7 @@ This project enables users to upload CSV files and automatically preprocess data
 
 ## 🖥️ App Preview
 
-<img src="assets/screenshot_ui.png" width="500" />
+<img src="1.PNG" width="500" />
 
 ---
 
